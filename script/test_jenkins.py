@@ -11,6 +11,7 @@ class TestDemo:
 
     def test_fn3(self):
         print( "第三个函数" )
+        assert 1
 
     def test_fn4(self):
         print( "第四个函数" )
